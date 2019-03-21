@@ -1,0 +1,33 @@
+{
+  "name": "headerparser-microservice",
+  "version": "1.0.0",
+  "description": "API Project: Request Header Parser Microservice for freeCodeCamp",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.0.0-alpha.2",
+    "cors": "^2.8.1",
+    "nodemon": "^1.15.10"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cryptonymous9/Headerparser-Microservice.git"
+  },
+  "keywords": [
+    "node",
+    "hyperdev",
+    "express"
+  ],
+  "author": "Nidhin Harilal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cryptonymous9/Headerparser-Microservice/issues"
+  },
+  "homepage": "https://github.com/cryptonymous9/Headerparser-Microservice#readme",
+  "devDependencies": {
+    "eslint": "^5.15.3"
+  }
+}
